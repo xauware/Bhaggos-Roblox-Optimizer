@@ -36,7 +36,7 @@ ECHO Wscript.Sleep 900                                    >>"%TempVBSFile%"
 CSCRIPT //nologo "%TempVBSFile%"
 echo successfully given admin rights, now starting program..
 cls
-title Bhaggo's Roblox Optimizer
+title Xau's Roblox Optimizer
 set "params=%*"
 mode 117
 :menu
@@ -44,15 +44,15 @@ cls
 cls
 echo. 
 echo 	"**********************************************************************";
-echo 	"* __             __   __   __  .  __      __   __   __        __     *";
-echo 	"*|__) |__|  /\  / _` / _` /  \ ' /__`    |__) /  \ |__) |    /  \ \_/*";
-echo 	"*|__) |  | /~~\ \__> \__> \__/   .__/    |  \ \__/ |__) |___ \__/ / \*";
+echo 	"* 								      *";
+echo 	"*								      *";
+echo 	"*								      *";
+echo 	"*                        XAU'S ROBLOX                                *";
+echo 	"*                                 				      *";
+echo 	"*                          OPTIMIZER     			      *";
+echo 	"*                                 				      *";
 echo 	"*                                                                    *";
-echo 	"*                __   __  ___           __  ___  __                  *";
-echo 	"*               /  \ |__)  |  |  |\/| |  / |__  |__)                 *";
-echo 	"*               \__/ |     |  |  |  | | /_ |___ |  \                 *";
-echo 	"*                                                                    *";
-echo 	"*                     @BhaggoYT on YouTube                           *";
+echo 	"*                     @whosout on YouTube                            *";
 echo 	"*                                                                    *";
 echo 	"**********************************************************************";
 echo.
